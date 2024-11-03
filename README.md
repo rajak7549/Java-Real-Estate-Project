@@ -1,5 +1,5 @@
 
-# Project Title
+# Real Estate Project Java
 
 "RealEstate Insight Pro" – Perfect for a data-driven project, this title conveys an analytical edge, indicating the software can provide valuable insights, trends, or predictions about the real estate market.
 
